@@ -7,11 +7,11 @@
     IgnorableNamespaces="uap uap5 rescap">
   <Identity
       Name="b43b7ce8-17ce-4d39-8b34-57790e570f25"
-      Publisher="CN=Admin"
+      Publisher="CN=Marcel Kwiatkowski"
       Version="1.0.0.0" />
   <Properties>
     <DisplayName>Force Quit</DisplayName>
-    <PublisherDisplayName>Admin</PublisherDisplayName>
+    <PublisherDisplayName>Marcel Kwiatkowski</PublisherDisplayName>
     <Logo>Images\StoreLogo.png</Logo>
   </Properties>
   <Dependencies>
